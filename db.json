@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "64fd",
+      "username": "test1",
+      "password": "$2a$05$5LfjFrfov2sVz77fMJ5wCevc5BEBtSfPcOvbawOtKsqUFp9vHZPE2",
+      "email": "test1@gmail.com",
+      "dob": "2024-01-25"
+    },
+    {
+      "id": "3e03",
+      "username": "ravi kumar",
+      "password": "$2a$05$Bb8f24MZhZ.XgVgz.yevbOrj7q3bwFm.rm1jFxP1p1e2NfKOAmdqu",
+      "email": "ravi@mail.com",
+      "dob": "1999-12-07"
+    },
+    {
+      "id": "1a2f"
+    },
+    {
+      "id": "069f",
+      "username": "test2",
+      "password": "$2a$05$leU4ERWWWAycfcligsOk2OsAyj1iotVSyf0nlNqihdMvlAhW5eONO",
+      "email": "test2@gmail.com",
+      "dob": "1999-07-21"
+    },
+    {
+      "id": "d193",
+      "username": "ramana",
+      "password": "$2a$05$F0b4CROaBoKxCWLHC1Zk.O16tapMURYwunaxmzvBJG2QK3MVuVRh2",
+      "email": "raman!@gmail.com",
+      "dob": "2024-01-11"
+    },
+    {
+      "id": "1e41",
+      "username": "surya",
+      "password": "$2a$05$01YIoHhdt31k41fLAayQ0OOxd3SSjfA12Taype1gLcyaDfQVd65/W",
+      "email": "surya@gmail",
+      "dob": "2024-01-03"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Introduction to Programming",
+      "duration": "8 weeks",
+      "price": "$99.99"
+    },
+    {
+      "id": 2,
+      "courseImage": "https://th.bing.com/th/id/OIP.JlZ-o9MXJcMNPGpeIPZjvAHaEK?rs=1&pid=ImgDetMain",
+      "courseName": "Web Development Fundamentals",
+      "duration": "10 weeks",
+      "price": "$129.99"
+    },
+    {
+      "id": 3,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Data Science Basics",
+      "duration": "12 weeks",
+      "price": "$149.99"
+    },
+    {
+      "id": 4,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Graphic Design Essentials",
+      "duration": "6 weeks",
+      "price": "$79.99"
+    },
+    {
+      "id": 5,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Mobile App Development",
+      "duration": "14 weeks",
+      "price": "$179.99"
+    },
+    {
+      "id": 6,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Digital Marketing Strategies",
+      "duration": "8 weeks",
+      "price": "$109.99"
+    },
+    {
+      "id": 7,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Photography Fundamentals",
+      "duration": "10 weeks",
+      "price": "$119.99"
+    },
+    {
+      "id": 8,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Cybersecurity Basics",
+      "duration": "12 weeks",
+      "price": "$159.99"
+    },
+    {
+      "id": 9,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "UI/UX Design Principles",
+      "duration": "8 weeks",
+      "price": "$129.99"
+    },
+    {
+      "id": 10,
+      "courseImage": "https://via.placeholder.com/300/CCCCCC/000000?text=Course+8",
+      "courseName": "Business Analytics Fundamentals",
+      "duration": "10 weeks",
+      "price": "$139.99"
+    }
+  ]
+}

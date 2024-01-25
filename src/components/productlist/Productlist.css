@@ -1,0 +1,14 @@
+.container{
+   
+    background-color: #FAF1FE;
+}
+
+.table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+.td{
+    padding: 10px 10px 10px 10px;
+}
